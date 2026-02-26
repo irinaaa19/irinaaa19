@@ -7,9 +7,9 @@
 
 
   
-<li>I'm curently learing how to use <strong> HTML and CSS </strong> in order to have a solid base for web development👩‍💻</li>
-<li>I'm taking a Python course <em>course!</em></li>
-<li>I practice my C++ skills</li>
+  <li>I'm curently learing how to use <strong> HTML and CSS </strong> in order to have a solid base for web development👩‍💻</li>
+  <li>I'm taking a Python course <em>course!</em></li>
+  <li>I practice my C++ skills</li>
 </ul>
 </section>
 
@@ -20,9 +20,11 @@
 
 <section>
 <h1> Personal Goals </h1>
-<li>Master C++</li>
-<li> Make my own big project</li>
-<li>Master Python</li>
+  <ul>
+  <li>Master C++</li>
+  <li> Make my own big project</li>
+  <li>Master Python</li>
+</ul>
   
   
   

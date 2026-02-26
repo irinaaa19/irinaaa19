@@ -3,16 +3,14 @@
 <h1> About Me🥳</h1>
 
 <section>
-  <h2> Things I'm working on</h2>
+  <h1> My learning path</h1>
 <ul>
 
 
   
-<li>I'm curently learing how to use <strong> HTML </strong> in order to have a solid base for web development👩‍💻</li>
-
-
-  
-<li>I'm also taking the CS50 <em>course!</em>🐥</li>
+<li>I'm curently learing how to use <strong> HTML and CSS </strong> in order to have a solid base for web development👩‍💻</li>
+<li>I'm taking a Python course <em>course!</em></li>
+<li>I practice my C++ skills</li>
 </ul>
 </section>
 
@@ -22,8 +20,14 @@
 
 
 <section>
-  <h2> Personal Goals </h2>
-<strong>I would really like to gain as much knowledge as possible before college and build a GitHub page, storing every piece of code I write😎</strong>
+  <h1> Personal Goals </h1>
+  <li>Master C++</li>
+  <li> Make my own big project</li>
+  <li>Master Python</li>
+  
+  
+  
+
 </section>
 
 

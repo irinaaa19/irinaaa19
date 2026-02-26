@@ -1,6 +1,5 @@
-## Hello stranger👋
+## About Me🥳
 
-<h1> About Me🥳</h1>
 
 <section>
   <h1> My learning path</h1>
@@ -20,10 +19,10 @@
 
 
 <section>
-  <h1> Personal Goals </h1>
-  <li>Master C++</li>
-  <li> Make my own big project</li>
-  <li>Master Python</li>
+<h1> Personal Goals </h1>
+<li>Master C++</li>
+<li> Make my own big project</li>
+<li>Master Python</li>
   
   
   

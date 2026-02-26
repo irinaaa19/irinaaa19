@@ -8,7 +8,7 @@
 
   
   <li>I'm curently learing how to use <strong> HTML and CSS </strong> in order to have a solid base for web development👩‍💻</li>
-  <li>I'm taking a Python course <em>course!</em></li>
+  <li>I'm taking a Python course </li>
   <li>I practice my C++ skills</li>
 </ul>
 </section>
